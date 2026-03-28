@@ -315,6 +315,53 @@ def judge_episodes(entries: list) -> tuple[object, dict] | None:
 
 
 # ---------------------------------------------------------------------------
+# Enclosure / Media helpers
+# ---------------------------------------------------------------------------
+
+
+def _get_enclosure(entry) -> dict | None:
+    """
+    Extract the audio enclosure from a feedparser entry.
+    Podcast feeds store the MP3/media link in <enclosure> tags,
+    which feedparser exposes via entry.enclosures or entry.links.
+    Returns {url, type, length} or None.
+    """
+    # feedparser puts enclosures in entry.enclosures (list of dicts)
+    enclosures = getattr(entry, "enclosures", None) or []
+    for enc in enclosures:
+        url = enc.get("href") or enc.get("url", "")
+        if url:
+            return {
+                "url": url,
+                "type": enc.get("type", "audio/mpeg"),
+                "length": enc.get("length", "0"),
+            }
+
+    # Fallback: check entry.links for rel="enclosure"
+    links = getattr(entry, "links", None) or []
+    for link in links:
+        if link.get("rel") == "enclosure":
+            url = link.get("href", "")
+            if url:
+                return {
+                    "url": url,
+                    "type": link.get("type", "audio/mpeg"),
+                    "length": link.get("length", "0"),
+                }
+
+    return None
+
+
+def _get_duration(entry) -> str | None:
+    """Extract the itunes:duration value if present."""
+    # feedparser normalises itunes:duration to itunes_duration
+    duration = getattr(entry, "itunes_duration", None)
+    if duration:
+        return str(duration)
+    return None
+
+
+# ---------------------------------------------------------------------------
 # Feed Generation
 # ---------------------------------------------------------------------------
 
@@ -346,6 +393,8 @@ def load_existing_feed_entries() -> list[dict]:
             "description": getattr(entry, "summary", ""),
             "published": getattr(entry, "published", ""),
             "categories": [t.term for t in getattr(entry, "tags", [])],
+            "enclosure": _get_enclosure(entry),
+            "duration": _get_duration(entry),
         })
 
     log.info("Loaded %d existing entries (within retention window).", len(kept))
@@ -355,6 +404,7 @@ def load_existing_feed_entries() -> list[dict]:
 def generate_feed(winner: tuple[object, dict] | None, existing: list[dict]) -> None:
     """Build the output RSS feed, adding the week's best episode."""
     fg = FeedGenerator()
+    fg.load_extension("podcast")
     fg.title("Journalism Quality Filter — Weekly Best")
     fg.link(href="https://github.com/your-username/journalism-filter")
     fg.description(
@@ -398,6 +448,17 @@ def generate_feed(winner: tuple[object, dict] | None, existing: list[dict]) -> N
 
         fe.category(term="journalism_quality", label="Journalism Quality")
 
+        # Preserve the audio enclosure so podcast apps can play the episode
+        enc = _get_enclosure(entry)
+        if enc:
+            fe.enclosure(url=enc["url"], type=enc["type"], length=str(enc["length"]))
+            log.info("  Enclosure: %s", enc["url"])
+
+        # Preserve itunes:duration if available
+        duration = _get_duration(entry)
+        if duration:
+            fe.podcast.itunes_duration(duration)
+
     # Merge in existing entries that aren't duplicates
     for item in existing:
         link = item.get("link", "")
@@ -413,6 +474,15 @@ def generate_feed(winner: tuple[object, dict] | None, existing: list[dict]) -> N
             fe.pubDate(item["published"])
         for cat in item.get("categories", []):
             fe.category(term=cat)
+
+        # Restore enclosure for existing entries too
+        enc = item.get("enclosure")
+        if enc:
+            fe.enclosure(url=enc["url"], type=enc["type"], length=str(enc["length"]))
+
+        duration = item.get("duration")
+        if duration:
+            fe.podcast.itunes_duration(duration)
 
     # Write output
     output_path = Path(OUTPUT_FILE)
