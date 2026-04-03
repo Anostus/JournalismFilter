@@ -1,28 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Best</title><link>https://github.com/your-username/journalism-filter</link><description>The single best podcast episode of the week, selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 28 Mar 2026 16:13:27 +0000</lastBuildDate><item><title>What Trump Didn’t Know About Iran</title><link>https://www.nytimes.com/2026/03/13/opinion/ezra-klein-podcast-ali-vaez.html</link><description>The Trump administration miscalculated how Iran would respond to this war. And the United States, Iran and Israel were brought to the brink of war in the first place because of a whole series of misjudgments and miscalculations going back decades.
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Best</title><link>https://github.com/your-username/journalism-filter</link><description>The single best podcast episode of the week, selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 03 Apr 2026 10:39:34 +0000</lastBuildDate><item><title>Michael Pollan’s Journey to the Borderlands of Consciousness</title><link>https://www.nytimes.com/2026/03/26/opinion/eza-klein-podcast-michael-pollan.html</link><description>Consciousness is this amazing, mind-bending riddle. It’s the only thing any of us truly knows. We experience everything else in life through it. And yet we barely understand it. We don’t know what it’s made of or how it works or why it exists.
 
-Ali Vaez is the Iran project director at the International Crisis Group. He was involved in the negotiations that led to the 2015 nuclear deal, and is in fact himself a nuclear scientist. He’s also an author of “How Sanctions Work: Iran and the Impact of Economic Warfare.”
+But scientists and theorists have been trying to answer those questions, and have made some startling discoveries. The science writer Michael Pollan, known for books like “The Omnivore’s Dilemma” and “How to Change Your Mind,” spent five years on the vanguard of this research. And his new book, “A World Appears: A Journey Into Consciousness,” shows that the closer you look at consciousness, the weirder it gets.
 
-In this conversation, Vaez explains how over 47 years the United States, Israel and Iran came to one another as threats, and why so many efforts to thaw relations failed. It’s the briefing on Iran that Trump should have received before he decided to go to war.
+I asked Pollan to walk through some of the places his mind wandered on this journey — including the role of the body and feelings in consciousness, fascinating studies that provide evidence for plant sentience, the researchers who have abandoned their old theories after trying psychedelic drugs, and the possibility that consciousness may not emerge from inside us at all. “I’ve entered this ‘never say never’ realm with this research,” Pollan told me.
 
 Mentioned:
 
-How Sanctions Work by Narges Bajoghli, Vali Nasr, Djavad Salehi-Isfahani, and Ali Vaez
+A World Appears by Michael Pollan
 
-Joint Comprehensive Plan of Action
+“The Descriptive Experience Sampling method” by Russell T. Hurlburt and Sarah A. Akhter
+
+“What Is It Like to Be a Bat?” by Thomas Nagel
+
+The Hidden Spring by Mark Solms
+
+Descartes’ Error by Antonio Damasio
+
+“The Oxford Handbook of Spontaneous Thought” by Kalina Christoff and Kieran C. R. Fox
 
 Book Recommendations:
 
-Persians by Lloyd Llewellyn-Jones
+The Blind Spot by Adam Frank, Marcelo Gleiser and Evan Thompson
 
-The Mantle of the Prophet by Roy P. Mottahedeh
+Ducks, Newburyport by Lucy Ellmann
 
-Tomorrow Is Yesterday by Hussein Agha and Robert Malley
+Being You by Anil Seth
 
 Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.
 
 You can find transcripts (posted midday) and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast, and you can find Ezra on Twitter @ezraklein. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.
 
-This episode of “The Ezra Klein Show” was produced by Jack McCordick. Fact-checking by Michelle Harris with Kate Sinclair. Our senior engineer is Jeff Geld, with additional mixing by Isaac Jones and Aman Sahota. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Rollin Hu, Kristin Lin, Emma Kehlbeck, Marina King and Jan Kobal. Original music by Aman Sahota and Pat McCusker. Audience strategy by Kristina Samulewski and Shannon Busta. The director of New York Times Opinion Audio is Annie-Rose Strasser.
+This episode of “The Ezra Klein Show” was produced by Kristin Lin. Fact-checking by Kim Freda. Our senior engineer is Jeff Geld, with additional mixing by Aman Sahota and Isaac Jones. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Michelle Harris, Rollin Hu, Emma Kehlbeck, Jack McCordick, Marina King and Jan Kobal. Original music by Pat McCusker. Audience strategy by Kristina Samulewski and Shannon Busta. The director of New York Times Opinion Audio is Annie-Rose Strasser.
 
-[Journalism Quality Filter — Quality: 9/10 — With expert testimony and deep historical context, it demonstrates excellent journalism by clarifying complex foreign policy miscalculations.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/2f50cd01-001f-469d-8ee0-acb47e259567/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=2f50cd01-001f-469d-8ee0-acb47e259567&amp;feed=82FI35Px" length="87546301" type="audio/mpeg"/><pubDate>Sat, 14 Mar 2026 11:00:00 +0000</pubDate><itunes:duration>01:31:11</itunes:duration></item></channel></rss>
+[Journalism Quality Filter — Quality: 8/10 — Features expert insights and scientific exploration, advancing public understanding with depth and clarity.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f5568a1d-6942-4b19-a22b-4d5e5543837f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=f5568a1d-6942-4b19-a22b-4d5e5543837f&amp;feed=82FI35Px" length="84683287" type="audio/mpeg"/><pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate><itunes:duration>01:28:12</itunes:duration></item></channel></rss>
