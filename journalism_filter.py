@@ -3,8 +3,9 @@
 Journalism & News Quality Filter
 =================================
 Fetches podcast RSS feeds, scores each episode on journalism and news quality
-using DeepSeek R1, and outputs a filtered RSS feed containing only the single
-best episode of the week along that dimension.
+using DeepSeek R1. For each feed, selects the single best episode, then
+narrows those per-feed winners down to the top three overall. Outputs a
+filtered RSS feed with up to three episodes per week.
 
 Designed to run once a week (Fridays ~3 AM Denver time) via GitHub Actions.
 """
@@ -105,7 +106,11 @@ def save_seen_db(db: dict) -> None:
 
 
 def fetch_entries() -> list:
-    """Fetch and deduplicate entries from all configured RSS feeds."""
+    """Fetch and deduplicate entries from all configured RSS feeds.
+    
+    Each entry gets a `_source_feed` attribute set to its originating feed URL,
+    so we can later pick the best episode per feed.
+    """
     all_entries = []
     seen_links = set()
 
@@ -126,6 +131,7 @@ def fetch_entries() -> list:
                 if link and link in seen_links:
                     continue
                 seen_links.add(link)
+                entry._source_feed = url
                 all_entries.append(entry)
 
             log.info("  Got %d entries from %s", len(entries), url)
@@ -249,10 +255,11 @@ def score_batch(client: OpenAI, batch: list[tuple[int, object]]) -> list[dict]:
     return []
 
 
-def judge_episodes(entries: list) -> tuple[object, dict] | None:
+def judge_episodes(entries: list) -> list[tuple[object, dict]]:
     """
-    Score all entries via the LLM and return the single best episode
-    (highest journalism quality score). Returns (entry, scores) or None.
+    Score all entries via the LLM, pick the best episode from each feed,
+    then return the top 3 of those per-feed winners (sorted by score descending).
+    Returns a list of (entry, scores) tuples, length 0-3.
     """
     if not DEEPSEEK_API_KEY:
         log.error("DEEPSEEK_API_KEY is not set. Exiting.")
@@ -282,36 +289,51 @@ def judge_episodes(entries: list) -> tuple[object, dict] | None:
         if batch_start + BATCH_SIZE < len(indexed):
             time.sleep(1)
 
-    # Find the single best episode
-    best_idx = None
-    best_score = -1
-
+    # Log all scores
     for i, entry in enumerate(entries):
         s = all_scores.get(i)
         if s is None:
             log.debug("No score for entry %d; skipping.", i)
             continue
-
         quality = int(s.get("quality", 0))
         title = getattr(entry, "title", "(no title)")
         log.info("  [%d/10] %s — %s", quality, title, s.get("reason", ""))
 
-        if quality > best_score:
-            best_score = quality
-            best_idx = i
+    # --- Stage 1: Pick the best episode from each feed ---
+    # Group entries by source feed
+    feed_best: dict[str, tuple[int, int]] = {}  # feed_url -> (entry_index, quality)
+    for i, entry in enumerate(entries):
+        s = all_scores.get(i)
+        if s is None:
+            continue
+        quality = int(s.get("quality", 0))
+        source = getattr(entry, "_source_feed", "unknown")
+        if source not in feed_best or quality > feed_best[source][1]:
+            feed_best[source] = (i, quality)
 
-    if best_idx is not None:
-        best_entry = entries[best_idx]
-        best_scores = all_scores[best_idx]
+    log.info("Per-feed winners:")
+    for feed_url, (idx, quality) in feed_best.items():
+        title = getattr(entries[idx], "title", "(no title)")
+        log.info("  Feed %s -> [%d/10] %s", feed_url, quality, title)
+
+    # --- Stage 2: Narrow per-feed winners to the top 3 ---
+    ranked = sorted(feed_best.values(), key=lambda x: x[1], reverse=True)
+    top_n = ranked[:3]
+
+    winners = []
+    for idx, quality in top_n:
+        winners.append((entries[idx], all_scores[idx]))
         log.info(
-            "BEST EPISODE: [%d/10] %s",
-            best_score,
-            getattr(best_entry, "title", "(no title)"),
+            "TOP-%d PICK: [%d/10] %s",
+            len(winners),
+            quality,
+            getattr(entries[idx], "title", "(no title)"),
         )
-        return (best_entry, best_scores)
 
-    log.warning("No episodes could be scored.")
-    return None
+    if not winners:
+        log.warning("No episodes could be scored.")
+
+    return winners
 
 
 # ---------------------------------------------------------------------------
@@ -401,15 +423,15 @@ def load_existing_feed_entries() -> list[dict]:
     return kept
 
 
-def generate_feed(winner: tuple[object, dict] | None, existing: list[dict]) -> None:
-    """Build the output RSS feed, adding the week's best episode."""
+def generate_feed(winners: list[tuple[object, dict]], existing: list[dict]) -> None:
+    """Build the output RSS feed, adding the week's best episodes."""
     fg = FeedGenerator()
     fg.load_extension("podcast")
-    fg.title("Journalism Quality Filter — Weekly Best")
+    fg.title("Journalism Quality Filter — Weekly Top 3")
     fg.link(href="https://github.com/your-username/journalism-filter")
     fg.description(
-        "The single best podcast episode of the week, selected by AI for "
-        "journalism and news quality. Updated weekly on Fridays."
+        "The top three podcast episodes of the week (best from each feed), "
+        "selected by AI for journalism and news quality. Updated weekly on Fridays."
     )
     fg.language("en")
     fg.lastBuildDate(datetime.now(timezone.utc))
@@ -417,11 +439,12 @@ def generate_feed(winner: tuple[object, dict] | None, existing: list[dict]) -> N
     seen_links = set()
     now_str = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
-    # Add this week's winner
-    if winner is not None:
-        entry, scores = winner
+    # Add this week's winners
+    for entry, scores in winners:
         link = getattr(entry, "link", "") or ""
         if link:
+            if link in seen_links:
+                continue
             seen_links.add(link)
 
         fe = fg.add_entry()
@@ -525,14 +548,14 @@ def main() -> None:
 
     log.info("New (unseen) entries: %d / %d", len(new_entries), len(recent_entries))
 
-    # Score new entries via LLM and pick the single best
-    winner = None
+    # Score new entries via LLM and pick the top 3 (best per feed)
+    winners = []
     if new_entries:
-        winner = judge_episodes(new_entries)
+        winners = judge_episodes(new_entries)
     else:
         log.info("Nothing new to score.")
 
-    # Mark all fetched entries as seen (winner or not)
+    # Mark all fetched entries as seen (winners or not)
     now_iso = datetime.now(timezone.utc).isoformat()
     for entry in new_entries:
         seen_db[_entry_id(entry)] = now_iso
@@ -548,12 +571,14 @@ def main() -> None:
 
     # Load existing feed entries and merge
     existing = load_existing_feed_entries()
-    generate_feed(winner, existing)
+    generate_feed(winners, existing)
 
-    if winner:
-        log.info("Done. This week's best episode: %s", getattr(winner[0], "title", "?"))
+    if winners:
+        log.info("Done. This week's top %d episodes:", len(winners))
+        for entry, scores in winners:
+            log.info("  [%d/10] %s", scores.get("quality", 0), getattr(entry, "title", "?"))
     else:
-        log.info("Done. No new winner this week.")
+        log.info("Done. No new winners this week.")
 
 
 if __name__ == "__main__":
