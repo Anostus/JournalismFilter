@@ -1,12 +1,12 @@
 # Journalism Quality Filter
 
-An AI-powered RSS filter that monitors podcast feeds and selects the **single best episode of the week** based on journalism and news quality.
+An AI-powered RSS filter that monitors podcast feeds and selects the **top three episodes of the week** based on journalism and news quality.
 
 ## How It Works
 
 1. **Fetches** episodes from five podcast RSS feeds every Friday at 3 AM Denver time.
 2. **Scores** each episode on a single dimension — **Journalism and News Quality** — using DeepSeek R1, evaluating depth of reporting, use of primary sources, original investigation, fairness, clarity, and public significance.
-3. **Selects** the single highest-scoring episode and adds it to a curated output RSS feed.
+3. **Selects the best episode from each feed**, then narrows those per-feed winners down to the **top three overall**.
 4. **Publishes** the result to `docs/feed.xml`, which you can subscribe to in any podcast app or RSS reader.
 
 ## Podcast Sources
