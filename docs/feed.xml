@@ -1,50 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 29 May 2026 12:45:56 +0000</lastBuildDate><item><title>America, China, and the Tech Cold War with Chris Miller</title><description>Following Trump's return from his summit in China, Jon is joined by Chris Miller, author of "Chip War: The Fight for the World's Most Critical Technology." Together, they explore the supply chain for semiconductors that runs through Taiwan, discuss how the trade war between the US and China is reshaping technology development and production, and consider what this competition reveals about the emerging world order. Plus, Jon has to choose between Nixon and Trump!
-
-This episode is brought to you by:
-
-GROUND NEWS - Go to https://groundnews.com/stewart to see all sides of every story. Subscribe for 40% off the Vantage Subscription only for a limited time through our link https://groundnews.com/stewart
-
-AVOCADO - Go to https://AvocadoGreenMattress.com/TWS and check out their mattress and bedding sale!
-
-SURFSHARK - Go to https://surfshark.com/jonstewart and use code jonstewart at checkout to get 4 extra months of Surfshark VPN!
-
-UPWORK - Visit https://upwork.com/tws right now and post your job for free.
-
-Follow The Weekly Show with Jon Stewart on social media for more: 
-
-&gt; YouTube: https://www.youtube.com/@weeklyshowpodcast 
-
-&gt; Instagram: https://www.instagram.com/weeklyshowpodcast
-
-&gt; TikTok: https://tiktok.com/@weeklyshowpodcast 
-
-&gt; X: https://x.com/weeklyshowpod  
-
-&gt; BlueSky: https://bsky.app/profile/theweeklyshowpodcast.com
-
-Host/Executive Producer – Jon Stewart
-
-Executive Producer – James Dixon
-
-Executive Producer – Chris McShane
-
-Executive Producer – Caity Gray
-
-Lead Producer – Lauren Walker
-
-Producer – Brittany Mehmedovic 
-
-Producer – Gillian Spear
-
-Video Editor &amp; Engineer – Rob Vitolo
-
-Audio Editor &amp; Engineer – Nicole Boyce
-
-Music by Hansdle Hsu
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
-
-[Journalism Quality Filter — Quality: 8/10 — In-depth interview with Chris Miller on semiconductor supply chains provides significant insight from a leading expert with original research.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD9682547560.mp3" length="0" type="audio/mpeg"/><pubDate>Wed, 20 May 2026 07:30:00 +0000</pubDate><itunes:duration>5611</itunes:duration></item><item><title>The Reality of a U.S.-Iran 'Deal'</title><description>Steve Hayes is joined by Jonah Goldberg, Kevin Williamson, and David French to discuss the potential ceasefire extension with Iran and the Democratic Party's autopsy of its 2024 presidential election loss.
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 05 Jun 2026 12:33:28 +0000</lastBuildDate><item><title>The Reality of a U.S.-Iran 'Deal'</title><description>Steve Hayes is joined by Jonah Goldberg, Kevin Williamson, and David French to discuss the potential ceasefire extension with Iran and the Democratic Party's autopsy of its 2024 presidential election loss.
 
 The Agenda:
 
@@ -69,47 +24,51 @@ Show notes:
 The Dispatch Podcast is a production of ⁠The Dispatch⁠, a digital media company covering politics, policy, and culture from a nonpartisan perspective. To access all of The Dispatch’s offerings—including audio versions of all our articles and newsletters—⁠click here⁠. If you’d like to remove all ads from your podcast experience, consider becoming a premium Dispatch member ⁠by clicking here⁠.
 Learn more about your ad choices. Visit megaphone.fm/adchoices
 
-[Journalism Quality Filter — Quality: 6/10 — Panel discussion offers informed commentary on Iran and DNC, but lacks original reporting or deep investigative depth.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI2865197633.mp3" length="0" type="audio/mpeg"/><pubDate>Tue, 26 May 2026 07:00:00 +0000</pubDate><itunes:duration>3798</itunes:duration></item><item><title>Why Are Palantir and OpenAI Scared of Alex Bores?</title><link>https://www.nytimes.com/2026/04/21/opinion/ezra-klein-podcast-alex-bores.html</link><description>Leading the Future, a super PAC whose funders include the founders of companies like Palantir and OpenAI, is spending millions of dollars this election cycle, and a considerable amount of that money is going toward attack ads against Alex Bores – even though Bores himself used to work for Palantir.
+[Journalism Quality Filter — Quality: 6/10 — Panel discussion offers informed commentary on Iran and DNC, but lacks original reporting or deep investigative depth.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI2865197633.mp3" length="0" type="audio/mpeg"/><pubDate>Tue, 26 May 2026 07:00:00 +0000</pubDate><itunes:duration>3798</itunes:duration></item><item><title>Ian Bremmer on the Risks America Poses to the World</title><link>https://www.nytimes.com/2026/06/02/opinion/ezra-klein-podcast-ian-bremmer.html</link><description>Over the past month, there have been two dominant stories in American foreign policy. One, of course, is the war with Iran. The other is the much-anticipated summit between President Trump and Xi Jinping of China. And I think if you look closely at both of these stories, you see that our foreign policy has entered into a period of absolute incoherence.
 
-Bores is a New York state assemblyman who is running for Congress to represent New York’s 12th District. His campaign includes an extensive A.I. policy platform, including demands for A.I. companies to be more transparent about safety, and an idea for an “A.I. dividend” that would redistribute some of the profits of A.I. companies to the public. So his race has turned into a central battleground over the future of the A.I. industry and who has the power to shape it.
+I’m not even sure what the status of the Iran war is at this point. What is Trump trying to achieve? What is he willing to accept?
 
-In this conversation, we discuss how Bores went from working for Palantir to running a campaign that would regulate the A.I. industry, the major issues he thinks A.I. policy needs to address, and his response to the attacks against him.
+Taking a more hawkish approach to China has been a core and consistent principle of Trump’s since his first term. He’s been insistent that China has taken advantage of the United States and that America needed to change that dynamic and flex more power. But is that happening? Is that even Trump’s position anymore?
+
+So I wanted to do an episode looking at China and Iran and trying to assess Trump’s foreign policy in general and the ways he’s remaking what America means on the world stage.
+
+Ian Bremmer is the president and founder of Eurasia Group, a political risk research and consultancy firm, and the global affairs publication GZero. He’s also the author of, among other books, “Every Nation for Itself: What Happens When No One Leads the World.”
 
 Mentioned:
 
-Give People Money by Annie Lowrey
+Bowling Alone by Robert D. Putnam
 
-“Alex Bores’ AI Policy Framework For Congress”
+The J Curve by Ian Bremmer
 
-“NY Congressional Candidate Faced Palantir Sexual Comments Claim” by Laura Nahmias
+“The ‘Vibecession’ Is Over. The ‘Permacession’ Is Here.” by Annie Lowrey
 
-“AI populism’s warning shots” by Jasmine Sun
+“Disney and the Decline of America’s Middle Class” by Daniel Currell
+
+Eurasia Group’s Top Risks for 2026
 
 Book Recommendations:
 
-A Theory of Justice by John Rawls
+The Hitchhiker’s Guide to the Galaxy by Douglas Adams
 
-World Eaters by Catherine Bracy
+A World Appears by Michael Pollan
 
-Bird by Bird by Anne Lamott
+The Chronoliths by Robert Charles Wilson
 
 Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.
 
 You can find transcripts (posted midday) and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast, and you can find Ezra on Twitter @ezraklein. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.
 
-This episode of “The Ezra Klein Show” was produced by Annie Galvin. Fact-checking by Lori Segal. Our senior engineer is Jeff Geld, with additional mixing by Aman Sahota and Isaac Jones. Our recording engineer is Aman Sahota. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Michelle Harris, Rollin Hu, Kristin Lin, Emma Kehlbeck, Jack McCordick, Marina King and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta and Lauren Reddy. The director of New York Times Opinion Audio is Annie-Rose Strasser. And special thanks to Gregory C. Allen.
+This episode of “The Ezra Klein Show” was produced by Rollin Hu and Annie Galvin. Fact-checking by Michelle Harris with Julie Beer. Our senior engineer is Jeff Geld, with additional mixing by Johnny Simon and Isaac Jones. Our recording engineer is Johnny Simon. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Kristin Lin, Emma Kehlbeck, Jack McCordick, Marina King and Jan Kobal. Original music by Pat McCusker and Carole Sabouraud. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser.
 
-[Journalism Quality Filter — Quality: 8/10 — Investigates campaign finance and AI policy with specific examples and apparent original reporting on a congressional race.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/1f243f36-35cd-4d03-9c42-58ef54d6860f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=1f243f36-35cd-4d03-9c42-58ef54d6860f&amp;feed=82FI35Px" length="89056808" type="audio/mpeg"/><pubDate>Tue, 21 Apr 2026 09:00:00 +0000</pubDate><itunes:duration>01:32:46</itunes:duration></item><item><title>AI &amp; The Future of Work with Daron Acemoglu and David Autor</title><description>As artificial intelligence continues to integrate into the workforce, Jon is joined by MIT economists David Autor and Daron Acemoglu, recipient of the 2024 Nobel Prize in Economics, to understand what the future might hold for American workers. Together, they explore lessons from past waves of technological change, examine what pro-worker AI could look like, and discuss what policies could help workers navigate an increasingly uncertain economic future -- and whether the incentives exist to achieve them. 
+[Journalism Quality Filter — Quality: 4/10 — Provides expert analysis of foreign policy but relies on assertion rather than documented reporting or new information.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/54f7928d-5868-4d12-bb7f-b2642c7b7f7e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=54f7928d-5868-4d12-bb7f-b2642c7b7f7e&amp;feed=82FI35Px" length="88294888" type="audio/mpeg"/><pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate><itunes:duration>01:31:58</itunes:duration></item><item><title>The Iran War and Our Energy Future with David Wallace-Wells</title><description>As the war with Iran disrupts global energy markets and accelerates a reckoning with fossil fuel dependence, Jon is joined by David Wallace-Wells, New York Times Opinion writer and author of the bestseller "The Uninhabitable Earth: Life After Warming." Together, they explore the war's global and domestic fallout, discuss how this moment is forcing countries to reconsider their dependence on oil and American power, and consider whether we can build systems resilient enough to withstand compounding disruptions. Plus, Jon answers listener questions about some of his favorite podcast topics, Trump on Jeopardy!, and whether his kids actually like him.
 
 This episode is brought to you by:
 
-GROUND NEWS - Go to https://groundnews.com/stewart to see all sides of every story. Subscribe for 40% off the Vantage Subscription only for a limited time through my link https://groundnews.com/stewart
+FAST GROWING TREES - Go to https://fastgrowingtrees.com/tws and use code TWS to get 20% off your first purchase.
 
-AVOCADO GREEN MATTRESS - Go to https://AvocadoGreenMattress.com/TWS and check out their mattress and bedding sale!
+QUINCE - Head to https://Quince.com/TWS for free shipping on your order and 365-day returns. Now available in Canada, too.
 
-BOLL AND BRANCH - Go to https://BollAndBranch.com/tws with code TWS to unlock 15% off.
-
-BOMBAS - Head over to https://Bombas.com/WEEKLY and use code WEEKLY for 20% off your first purchase.
+SMALLS -  For a limited time, get 60% off your first order, plus free shipping, when you head to https://Smalls.com/TWS.
 
 Follow The Weekly Show with Jon Stewart on social media for more: 
 
@@ -131,8 +90,6 @@ Executive Producer – Chris McShane
 
 Executive Producer – Caity Gray
 
-Lead Producer – Lauren Walker
-
 Producer – Brittany Mehmedovic 
 
 Producer – Gillian Spear
@@ -146,4 +103,13 @@ Music by Hansdle Hsu
 
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
 
-[Journalism Quality Filter — Quality: 9/10 — Substantive interview with leading economists providing deep analysis of AI's impact on work, rooted in research and expertise.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD6546443898.mp3?updated=1776819780" length="0" type="audio/mpeg"/><pubDate>Wed, 22 Apr 2026 07:30:00 +0000</pubDate><itunes:duration>4454</itunes:duration></item></channel></rss>
+[Journalism Quality Filter — Quality: 5/10 — Interview with an opinion writer provides some analysis but is not based on original reporting or deep evidence.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD2863133582.mp3" length="0" type="audio/mpeg"/><pubDate>Wed, 03 Jun 2026 07:30:00 +0000</pubDate><itunes:duration>5633</itunes:duration></item><item><title>They Sold Everything. Then the Flight Was Canceled.</title><description>One of President Trump’s first major actions after returning to office was offering refuge to white South Africans who faced property seizures and racial violence at home. The decision sparked a political firestorm, but months later, many Afrikaners say their promised path to America has stalled.
+
+
+
+Daily Wire immigration reporter Jennie Taer joins Tim Rice to discuss her investigation into the refugee program, the nonprofit at the center of the controversy, and why some refugees have been left in limbo.
+
+
+Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+[Journalism Quality Filter — Quality: 8/10 — An investigative segment featuring primary-source interviews and specific casework on a controversial refugee program.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/3Q5mz/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV8013494287.mp3" length="0" type="audio/mpeg"/><pubDate>Sat, 30 May 2026 14:54:00 +0000</pubDate><itunes:duration>1392</itunes:duration></item></channel></rss>
