@@ -1,67 +1,71 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 31 Jul 2026 11:55:01 +0000</lastBuildDate><item><title>Sarah Longwell and Alex Seitz-Wald: The Maine Thing</title><link>https://audioboom.com/posts/8931779</link><description>&lt;div&gt;In 2026, everyone who follows politics has an opinion about Maine politics. Here’s the thing: a lot of people in Maine think they’re wrong. So, Sarah talked to a former national political reporter who moved his family to Maine to help stand up a local paper. Former NBC News reporter Alex Seitz-Wald, now deputy editor of the &lt;em&gt;Midcoast Villager, &lt;/em&gt;joins to discuss his transition to local journalism, the unique culture of Maine politics, and how Graham Platner’s exit from the U.S. Senate race landed with Maine voters. They also size up the new Democratic candidate, Troy Jackson, and discuss why Susan Collins has had such staying power, and how–or whether–her luck might finallt run out in 2026.&lt;br /&gt;&lt;em&gt;Show notes:&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://x.com/MaineVillager/status/2079672767776219608?s=20"&gt;The front page on the most recent issue of the Midcoast Villager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://podcasts.apple.com/us/podcast/the-focus-group-podcast/id1586423406"&gt;Sarah’s ‘Focus Group’ pod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.nytimes.com/2025/10/20/style/midcoast-villager-newspaper-maine.html?unlocked_article_code=1.z1A._cao.ClX_J3A2UWOy&amp;amp;smid=url-share"&gt;NYT profile of the &lt;em&gt;Midcoast Villager&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://open.spotify.com/playlist/0dApY6YT48kTh6j9xFDQch"&gt;Tim’s playlist&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 07 Aug 2026 10:47:42 +0000</lastBuildDate><item><title>Bill Kristol and Margaret Donovan: Hegseth Should Be Impeached</title><link>https://audioboom.com/posts/8934453</link><description>&lt;div&gt;
+&lt;p&gt;At the very least, Hegseth's refusal to acknowledge that it was our Tomahawk missile that killed 120 schoolchildren on the very first day of the war makes him unfit to serve as secretary of defense. Army JAG veteran Margaret Donovan says civilian casualties are a tragic reality in war and the public has the right to know what went wrong. The U.S. military prides itself on its excellence and precision, and that is what separates our fighting forces from those of our enemies. But Hegseth is also dragging this vital institution down because of the munition depletions, the lack of dignity being shown to fallen soldiers, his hare-brained schemes and war crimes in the Caribbean, and his undermining of military discipline by brushing off recent dangerous flyovers in civilian areas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Margaret Donovan&lt;/strong&gt; joins guest host Bill Kristol.&lt;/p&gt;&lt;/div&gt;
 
-[Journalism Quality Filter — Quality: 7/10 — Strong local political reporting with expert sourcing but lacks groundbreaking investigative work.]</description><category>Journalism Quality</category><enclosure url="https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931779.mp3?modified=1784842285&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Thu, 23 Jul 2026 19:44:44 +0000</pubDate><itunes:duration>3186</itunes:duration></item><item><title>The Iran Agreement Is Worse Than You Think</title><description>Steve Hayes is joined by Jonah Goldberg, Mike Warren, and Mike Nelson to break down the text of the memorandum of understanding that ended the hostilities between U.S. and Iran.
+[Journalism Quality Filter — Quality: 9/10 — Holds a top Defense official accountable with a primary-source expert and focus on a major civilian casualty incident, advancing public understanding of military accountability.]</description><category>Journalism Quality</category><enclosure url="https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8934453.mp3?modified=1785440136&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Thu, 30 Jul 2026 19:34:00 +0000</pubDate><itunes:duration>2921</itunes:duration></item><item><title>Will Trump Interfere with the 2026 Midterms?</title><description>Steve Hayes is joined by Mike Warren and Stephen Richer to discuss the growing concerns and conversations around election integrity ahead of the 2026 midterms and the proliferation of conspiracy theories about voter fraud.
 
 The Agenda:
 
-—Trump’s goals vs. results
+—Election integrity
 
-—Iran’s ballistic missiles
+—Media influence on election claims
 
-—$300 billion reconstruction fund
+—California and conspiracy theories
 
-—Future of Iranian terrorist proxies
+—Understanding voter behavior
 
-—The Art of the Deal
+—The need for quick election results
 
-—NWYT: Father’s Day
+—Federal law enforcement &amp; voting
 
-Show notes:
+—Trump's influence on 2026 midterms
 
-—ISW report on U.S.-Iran agreement
+—NWYT: Trump and the number 22 
 
 The Dispatch Podcast is a production of ⁠The Dispatch⁠, a digital media company covering politics, policy, and culture from a nonpartisan perspective. To access all of The Dispatch’s offerings—including audio versions of all our articles and newsletters—⁠click here⁠. If you’d like to remove all ads from your podcast experience, consider becoming a premium Dispatch member ⁠by clicking here⁠.
 
 
 Learn more about your ad choices. Visit megaphone.fm/adchoices
 
-[Journalism Quality Filter — Quality: 7/10 — A detailed breakdown of the U.S.-Iran memorandum text adds analytical value by grounding discussion in a primary source.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI1234659026.mp3" length="0" type="audio/mpeg"/><pubDate>Thu, 18 Jun 2026 22:16:00 +0000</pubDate><itunes:duration>4636</itunes:duration></item><item><title>I Have Some Questions for the Democrats Who Want to Run California</title><link>https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-housing-forum.html</link><description>On Friday, I moderated a forum with the top Democratic candidates for California governor, focusing on the state’s housing crisis.
+[Journalism Quality Filter — Quality: 8/10 — Tackles election integrity with an authoritative guest (Stephen Richer) and serious fact-based discussion of conspiracy theories.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI6048109908.mp3" length="0" type="audio/mpeg"/><pubDate>Tue, 23 Jun 2026 07:00:00 +0000</pubDate><itunes:duration>3917</itunes:duration></item><item><title>The A.I. Revolt Is Here</title><link>https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html</link><description>What’s big and ugly and has united Republicans and Democrats? A.I. data centers.
 
-California’s current governor, Gavin Newsom, came into office in 2019 promising to build millions of homes. And in the years since, dozens of pro-housing laws have passed, designed to cut red tape and spur more construction. And yet the number of homes being built in California is basically the same as when he took office, and the state’s housing crisis remains, arguably, the worst in the country. So I wanted to know what the next governor would do about it.
+An overwhelming majority of Americans say they’d oppose a data center being built near where they live. In New York, Gov. Kathy Hochul just imposed a one-year moratorium on data center construction, and there are over 100 other local or statewide moratorium proposals across the country. A.I.’s explosive momentum over the last few years seems to have finally run into a force that could slow it down: the messy politics of getting things done in the real world.
 
-We taped this at the Calvin Simmons Theater in Oakland, Calif. The candidates on the stage were Xavier Becerra, a former attorney general of California and health and human services secretary under President Joe Biden; Matt Mahan, the mayor of San Jose and a tech entrepreneur; Katie Porter, a former U.S. representative; Tom Steyer, a former San Francisco hedge fund manager, a climate activist and a philanthropist; and Antonio Villaraigosa, a former mayor of Los Angeles and speaker of the California State Assembly. This panel was recorded live. The Times did not fact-check candidates’ remarks.
+So, is that a good thing, or a bad thing? And how much is the data center backlash about the actual construction of these buildings, and how much is it about A.I. itself?
+
+Jasmine Sun has an excellent newsletter covering both the culture inside the A.I. companies and the anger that’s been building against them. And she just finished a reporting trip in the Midwest, where she interviewed people on all sides of the data center fight. So I wanted to talk to her about what she saw and what she thinks A.I. companies can learn from the growing movement against them.
 
 Mentioned:
 
-“Cost to Build Multifamily Housing in California More Than Twice as High as in Texas” by RAND
+@jasmine’s Substack
 
-“What Worries Me Most About ‘Abundance’” with Derek Thompson and Marc Dunkelman, The Ezra Klein Show
+Silicon Valley Is Bracing for a Permanent Underclass by Jasmine Sun
+
+Sam Bankman-Fried on Arbitrage and Altruism (Ep. 145)
+
+Is Your Social Life Missing Something? This Conversation Is for You. With Priya Parker, The Ezra Klein Show
 
 Book Recommendations:
 
-The Hour of the Predator by Giuliano da Empoli
+The Maniac by Benjamin Labatut
 
-Rain of Gold by Victor Villaseñor
+The Technology Trap by Carl Benedikt Frey
 
-Yesteryear by Caro Claire Burke
-
-Why Nothing Works by Marc J. Dunkelman
-
-Ours Was the Shining Future by David Leonhardt
+The Art of Gathering by Priya Parker
 
 Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.
 
 You can find transcripts (posted midday) and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast, and you can find Ezra on Twitter @ezraklein. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.
 
-This episode of “The Ezra Klein Show” was produced by Rollin Hu, Marie Cascione, Kristin Lin and Marina King. Our senior engineer is Jeff Geld. Our recording engineer is Johnny Simon. Our executive producer is Claire Gordon. The show’s production team also includes Annie Galvin, Michelle Harris, Emma Kehlbeck, Jack McCordick and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Shows is Annie-Rose Strasser. And special thanks to Argus HD.
+This episode of “The Ezra Klein Show” was produced by Rollin Hu. Fact-checking by Kelsey Lannin. Our senior engineer is Jeff Geld, with additional mixing by Johnny Simon. Our recording engineer is Johnny Simon. Cinematography by Kyle Kelley. Video editing by Brandon Belk-Yee, Steph Khoury and Arpita Aneja. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Jack McCordick, Kristin Lin and Emma Kehlbeck. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser.
 
-[Journalism Quality Filter — Quality: 9/10 — Moderating a live forum with gubernatorial candidates on the housing crisis is direct accountability journalism that presses politicians on a critical policy failure.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/e77b1606-3cbe-4af2-b59b-d14e72b8db65/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=e77b1606-3cbe-4af2-b59b-d14e72b8db65&amp;feed=82FI35Px" length="88781393" type="audio/mpeg"/><pubDate>Tue, 12 May 2026 09:00:00 +0000</pubDate><itunes:duration>01:32:28</itunes:duration></item><item><title>Bill Kristol and Margaret Donovan: Hegseth Should Be Impeached</title><link>https://audioboom.com/posts/8934453</link><description>&lt;div&gt;
-&lt;p&gt;At the very least, Hegseth's refusal to acknowledge that it was our Tomahawk missile that killed 120 schoolchildren on the very first day of the war makes him unfit to serve as secretary of defense. Army JAG veteran Margaret Donovan says civilian casualties are a tragic reality in war and the public has the right to know what went wrong. The U.S. military prides itself on its excellence and precision, and that is what separates our fighting forces from those of our enemies. But Hegseth is also dragging this vital institution down because of the munition depletions, the lack of dignity being shown to fallen soldiers, his hare-brained schemes and war crimes in the Caribbean, and his undermining of military discipline by brushing off recent dangerous flyovers in civilian areas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Margaret Donovan&lt;/strong&gt; joins guest host Bill Kristol.&lt;/p&gt;&lt;/div&gt;
+[Journalism Quality Filter — Quality: 8/10 — Well-sourced explanatory journalism on data center opposition, using concrete polling and policy actions to illuminate a significant issue.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/6954b333-02c8-4439-af49-d932efe1d080/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=6954b333-02c8-4439-af49-d932efe1d080&amp;feed=82FI35Px" length="75131663" type="audio/mpeg"/><pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate><itunes:duration>01:18:15</itunes:duration></item><item><title>Inside WPATH's Private Forum: Trans Regret, Damage Control &amp; Denial</title><description>In this episode of Behind the Story, Tim Rice sits down with Daily Wire investigative reporter Megan Brock to break down her explosive three-part exposé on WPATH, the World Professional Association for Transgender Health, the group whose "Standards of Care" shape medical policy, treatment, and insurance coverage on transgender procedures worldwide.
 
-[Journalism Quality Filter — Quality: 9/10 — Holds a top Defense official accountable with a primary-source expert and focus on a major civilian casualty incident, advancing public understanding of military accountability.]</description><category>Journalism Quality</category><enclosure url="https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8934453.mp3?modified=1785440136&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Thu, 30 Jul 2026 19:34:00 +0000</pubDate><itunes:duration>2921</itunes:duration></item></channel></rss>
+Using a creative FOIA strategy, Megan obtained nearly 250 pages of private member forum messages that reveal what WPATH members say behind closed doors, a stark contrast to their public messaging.
+
+Megan's full three-part investigative series is available now at&amp;nbsp;&amp;nbsp;dailywire.com.
+
+Subscribe for more Behind the Story episodesRead Megan Brock's reporting: https://www.dailywire.com/news/wpath-files-trans-org-wants-female-inmates-to-overcome-transphobia-and-share-prisons-with-men.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+[Journalism Quality Filter — Quality: 9/10 — A deep investigative exposé using FOIA-obtained primary documents, revealing private discussions of a major medical body—strong accountability journalism.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/3Q5mz/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV1392227237.mp3" length="0" type="audio/mpeg"/><pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate><itunes:duration>1782</itunes:duration></item></channel></rss>
