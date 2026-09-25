@@ -1,25 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 18 Sep 2026 14:02:40 +0000</lastBuildDate><item><title>David French: MAGA Is Making America Less Free</title><link>https://audioboom.com/posts/8949070</link><description>&lt;div&gt;
-&lt;p&gt;Marco Rubio is using dubious powers to create a new class of immigrant political prisoners. Meanwhile, DHS officials are bragging about how they're brutally shackling and frog-marching Haitians who came here under protected status. On this American holiday weekend, David takes a "nerd moment" to explain that the Founders always intended our Constitutional liberties to apply to noncitizens as well—including even despicable Milo Yiannopoulos. Plus: How Trump keeps getting away with his illegal ballroom construction, what normie Texas Republicans are thinking about Paxton vs. Talarico, the risks of legal shenanigans after the votes are all counted in November, and an update on the Iranian green card-holders who've now been detained 150 days. Also, Tim is heartily enjoying the LSU ruling ahead of Saturday's game against Clemson.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;David French&lt;/strong&gt; joins Tim Miller for the holiday weekend pod.&lt;/p&gt;&lt;p&gt;&lt;em&gt;show notes:&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://podcasts.apple.com/us/podcast/breaking-trump-misreads-jobs-report-threatens-to-cut/id1794450472?i=1000787897831"&gt;Follow "Bulwark Takes" for the latest releases over the weekend&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html?unlocked_article_code=1.-lA.Yt_v.4-cwrU4cqyOt&amp;amp;smid=url-share"&gt;David's piece on Marco's tin-pot dictator leanings&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.nbclosangeles.com/news/local/la-family-120-days-ice-detention-texas/3929904/"&gt;More on the Iranian green card-holders from a local NBC affiiliate in LA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://open.spotify.com/playlist/0dApY6YT48kTh6j9xFDQch"&gt;Tim's playlist&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;Bulwark LIVE: GOOD FIGHT TOUR&lt;/strong&gt; with Tim, Sarah, Sam and JVL is coming to the Southeast in October. Tickets are on sale NOW. Head to &lt;a href="http://thebulwark.com/Events"&gt;TheBulwark.com/Events&lt;/a&gt; for details and to get your tickets.&lt;/li&gt;
-&lt;/ul&gt;
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 25 Sep 2026 14:56:14 +0000</lastBuildDate><item><title>Jonathan Swan: We Only Know 5%</title><link>https://audioboom.com/posts/8953110</link><description>&lt;div&gt;
+&lt;p&gt;The co-author of the signature book inside Trump 2.0 says the media only knows 5% of what is happening inside the administration—particularly when it comes to national security, the money-making, and the self-dealing. Jonathan does have new reporting about how the administration keeps pretending that our military is not running low on long-range missiles. In reality, the war is costing us a month's worth of Patriots almost every day. Plus: Stephen Miller has become the White House's resident kingmaker, why Trump is turbocharged on AI, and some contentious moments when Tim and Jonathan discuss how to characterize JD's divergent private and public posturing on the war.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jonathan Swan&lt;/strong&gt; joins Tim Miller.&lt;br /&gt;&lt;em&gt;show notes:&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.simonandschuster.com/books/Regime-Change/Maggie-Haberman/9781668067246"&gt;Jonathan’s “Regime Change: Inside the Imperial Presidency of Donald Trump”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hsc.donorsupport.co/page/Bulwark"&gt;The Bulwark’s campaign to help the Haitian community of Springfield&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Closing Song - &lt;a href="https://www.youtube.com/watch?v=0rFVVzavii0"&gt;MJ Lenderman - She's Leaving You&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Get 15% off OneSkin with the code BULWARK at &lt;a href="https://www.oneskin.co/BULWARK"&gt;https://www.oneskin.co/BULWARK&lt;/a&gt;&lt;br /&gt;#oneskinpod&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;
+&lt;a href="https://www.daytonmasoniccenter.org/events/live-recording-of-the-bulwark-to-benefit-the-springfield-community"&gt;&lt;strong&gt;Bulwark LIVE: Benefit for Springfield&lt;br /&gt;Some moments require you to step up. Some require you to show up. That’s why The Bulwark is coming to Ohio. &lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.daytonmasoniccenter.org/events/live-recording-of-the-bulwark-to-benefit-the-springfield-community"&gt;&lt;strong&gt;Join Tim, Sarah, JVL, Sam and friends Friday, September 25 at the Dayton Masonic Center for an evening of politics and fellowship.&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/div&gt;
 
-[Journalism Quality Filter — Quality: 7/10 — Well-informed legal and historical argument holding immigration policies accountable, though delivered as advocacy commentary.]</description><category>Journalism Quality</category><enclosure url="https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8949070.mp3?modified=1788550448&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Fri, 04 Sep 2026 19:24:46 +0000</pubDate><itunes:duration>3521</itunes:duration></item><item><title>Jonathan Swan’s Dive into Trump’s Reality</title><description>As Trump’s second administration pursues a radically different playbook from his first, Jon is joined by Jonathan Swan, New York Times reporter and co-author of the book "Regime Change." Together, they discuss what’s changed between Trump’s first term and now, how to puncture the president’s reality distortion bubble, and the craft behind a great interview. Plus, Jon takes listeners’ questions about causing political diabetes and Trump’s 9/11 efforts.
+[Journalism Quality Filter — Quality: 9/10 — Original investigative reporting with new information on national security and self-dealing, holding power accountable.]</description><category>Journalism Quality</category><enclosure url="https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8953110.mp3?modified=1789500109&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Tue, 15 Sep 2026 20:02:57 +0000</pubDate><itunes:duration>3459</itunes:duration></item><item><title>The ‘But China!’ Dilemma Driving the A.I. Race</title><link>https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html</link><description>America is waking up to the critical risks posed by artificial intelligence. But every conversation about possible regulation tends to hit the same wall: “Well, what about China?”
+
+Chinese A.I. models are just slightly behind American ones. If America slows down its A.I. development to make our models safer, the fear is that China will simply race ahead of us and own this critical technology of the future — with A.I. models that are less safe than our own. 
+
+So how should the United States respond to this prisoner’s dilemma? And is it possible that the two countries leading the A.I. race could actually strike a deal? 
+
+Matt Sheehan is a senior fellow at the Carnegie Endowment for International Peace. He’s been closely following the A.I. debate in China, and how China’s been interpreting the A.I. debate here. And he’s working to try to lay a foundation for future coordination between the two countries. He’s the author of a newsletter under his name and the 2019 book “The Transpacific Experiment: How China and California Collaborate and Compete for Our Future.”
+
+This conversation was recorded on Sept. 10.
+
+[Journalism Quality Filter — Quality: 8/10 — In-depth explanatory journalism on a complex AI policy dilemma, featuring expert analysis and clear presentation.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f3e11617-fc5d-4268-9dcc-fb47bec1433d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=f3e11617-fc5d-4268-9dcc-fb47bec1433d&amp;feed=82FI35Px" length="62994983" type="audio/mpeg"/><pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>01:05:37</itunes:duration></item><item><title>How Trump Made $2.2 Billion Since Taking Office</title><description>Morning Dispatch Reporter Surya Gowda joins Steve Hayes, Jonah Goldberg, and Kevin Williamson to explain how Donald Trump made $2.2 billion in 2025 and discuss whether or not his financial gains are ill-gotten.
+
+Then, Kevin and Jonah discuss Graham Platner dropping out of the Maine Senate race and the end of the ceasefire with Iran.
+
+The Agenda:
+
+—Trump’s presidential payday
+
+—Binance founder pardon
+
+—Public perception of corruption
+
+—Allegations against Graham Platner
+
+—Platner's working class cosplay
+
+—Is the Iran war back on?
+
+—How Iran keeps winning—NWYT: A Kevin Williamson solo Remnant?
+
+Show notes:
+
+—Trump: "I found out that nobody cared."
+
+—False allegations against a University of Virginia official
+
+The Dispatch Podcast is a production of ⁠The Dispatch⁠, a digital media company covering politics, policy, and culture from a nonpartisan perspective. To access all of The Dispatch’s offerings—including audio versions of all our articles and newsletters—⁠click here⁠. If you’d like to remove all ads from your podcast experience, consider becoming a premium Dispatch member ⁠by clicking here⁠.
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices
+
+[Journalism Quality Filter — Quality: 8/10 — Includes original reporting on Trump's financial gains, providing accountability journalism.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI4053543801.mp3" length="0" type="audio/mpeg"/><pubDate>Fri, 10 Jul 2026 07:00:00 +0000</pubDate><itunes:duration>4571</itunes:duration></item><item><title>What Does Abdul El-Sayed Believe?</title><link>https://www.nytimes.com/2026/09/25/opinion/ezra-klein-podcast-abdul-el-sayed.html</link><description>Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, has been one of the most argued-over candidates this election cycle. 
+
+If he wins, he’d be the first-ever Muslim senator, and he’s faced a torrent of attacks about his faith. The race has also become a proving ground for a lot of questions about the Democratic Party and its future: What should U.S. policy toward Israel and the Palestinians be? Is the future of health care reform Medicare for all? Can a left-wing populist win in a state that twice voted for Donald Trump?
+
+There’s been so much more heat than light in this race, so I wanted to invite El-Sayed on the show for a longer conversation. We talked about his upbringing, his views on U.S. foreign policy, his work on health care reform and what he would actually do if elected in November.
+
+[Journalism Quality Filter — Quality: 8/10 — In-depth candidate interview and profile that explores key policy and identity issues, adding public understanding.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/9a521442-24d0-4652-877a-8f2464174d9a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=9a521442-24d0-4652-877a-8f2464174d9a&amp;feed=82FI35Px" length="90135564" type="audio/mpeg"/><pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>01:33:53</itunes:duration></item><item><title>Jack Smith and Brian Driscoll on the Weaponization of Justice</title><description>As the Trump administration continues to weaponize the Justice Department and FBI, Jon is joined by former Special Counsel Jack Smith and former Acting FBI Director Brian Driscoll to examine what happens when these institutions are turned against the principles they were designed to uphold. Together, they explore whether the DOJ and FBI are capable of holding power accountable, investigate how the assault on the rule of law has been used to punish and intimidate public servants, and consider what it would take to repair these institutions.
 
 This episode is brought to you by:
 
 GROUND NEWS - Go to https://groundnews.com/stewart to see all sides of every story. Subscribe for 40% off the Vantage Subscription only for a limited time through our link https://groundnews.com/stewart
 
-AVOCADO GREEN MATTRESS - Find an Avocado near you or shop online at https://AvocadoGreenMattress.com/TWS&amp;nbsp; — and check out their mattress and bedding sale!
+FACTOR - https://FactorMeals.com/TWS50OFF
 
-BOMBAS - Head over to https://Bombas.com/weekly and use code WEEKLY for 20% off your first purchase.
-
-SMALLS - For a limited time, get 60% off your first order, plus free shipping, when you head to Smalls.com/TWS
+MINT MOBILE - Shop plans at https://MintMobile.com/TWS
 
 Follow The Weekly Show with Jon Stewart on social media for more:&amp;nbsp;
 
@@ -49,56 +94,9 @@ Video Editor &amp; Engineer – Rob Vitolo
 
 Audio Editor &amp; Engineer – Nicole Boyce
 
-Associate Producer - Rebecca Rottenberg
-
 Music by Hansdle Hsu
+
+
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
 
-[Journalism Quality Filter — Quality: 7/10 — A substantive interview with a top investigative journalist about Trump coverage and reporting craft, but not original investigation itself.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD6225911526.mp3" length="0" type="audio/mpeg"/><pubDate>Thu, 10 Sep 2026 07:30:00 +0000</pubDate><itunes:duration>5827</itunes:duration></item><item><title>What Americans Believe About Foreign Policy</title><description>Steve Hayes, Mike Warren, and Jonah Goldberg are joined by Rachel Hoff, policy director at the Ronald Reagan Institute, to take a look at the Reagan Institute’s 2026 Survey Report and what it reveals about American sentiment towards foreign policy.
-
-The Agenda:
-
-—The 2026 survey report
-
-—American support for Iran war
-
-—Partisan shifts in foreign policy
-
-—Socialists win in New York
-
-—Democrats' Pat Buchanan moment
-
-—Gavin Newsom's billionaire tax
-
-—Democrats in San Francisco
-
-—NWYT: Ranch dressing
-
-Show notes:
-
-—Friday G-File
-
-The Dispatch Podcast is a production of ⁠The Dispatch⁠, a digital media company covering politics, policy, and culture from a nonpartisan perspective. To access all of The Dispatch’s offerings—including audio versions of all our articles and newsletters—⁠click here⁠. If you’d like to remove all ads from your podcast experience, consider becoming a premium Dispatch member ⁠by clicking here⁠.
-Learn more about your ad choices. Visit megaphone.fm/adchoices
-
-[Journalism Quality Filter — Quality: 6/10 — Uses a major survey report and expert guest to explain foreign policy attitudes, providing data-driven context but limited original reporting.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI5479135873.mp3" length="0" type="audio/mpeg"/><pubDate>Tue, 30 Jun 2026 07:00:00 +0000</pubDate><itunes:duration>4507</itunes:duration></item><item><title>The ‘But China!’ Dilemma Driving the A.I. Race</title><link>https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html</link><description>America is waking up to the critical risks posed by artificial intelligence. But every conversation about possible regulation tends to hit the same wall: “Well, what about China?”
-
-Chinese A.I. models are just slightly behind American ones. If America slows down its A.I. development to make our models safer, the fear is that China will simply race ahead of us and own this critical technology of the future — with A.I. models that are less safe than our own. 
-
-So how should the United States respond to this prisoner’s dilemma? And is it possible that the two countries leading the A.I. race could actually strike a deal? 
-
-Matt Sheehan is a senior fellow at the Carnegie Endowment for International Peace. He’s been closely following the A.I. debate in China, and how China’s been interpreting the A.I. debate here. And he’s working to try to lay a foundation for future coordination between the two countries. He’s the author of a newsletter under his name and the 2019 book “The Transpacific Experiment: How China and California Collaborate and Compete for Our Future.”
-
-This conversation was recorded on Sept. 10.
-
-[Journalism Quality Filter — Quality: 8/10 — In-depth explanatory journalism on a complex AI policy dilemma, featuring expert analysis and clear presentation.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f3e11617-fc5d-4268-9dcc-fb47bec1433d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=f3e11617-fc5d-4268-9dcc-fb47bec1433d&amp;feed=82FI35Px" length="62994983" type="audio/mpeg"/><pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>01:05:37</itunes:duration></item><item><title>Jonathan Swan: We Only Know 5%</title><link>https://audioboom.com/posts/8953110</link><description>&lt;div&gt;
-&lt;p&gt;The co-author of the signature book inside Trump 2.0 says the media only knows 5% of what is happening inside the administration—particularly when it comes to national security, the money-making, and the self-dealing. Jonathan does have new reporting about how the administration keeps pretending that our military is not running low on long-range missiles. In reality, the war is costing us a month's worth of Patriots almost every day. Plus: Stephen Miller has become the White House's resident kingmaker, why Trump is turbocharged on AI, and some contentious moments when Tim and Jonathan discuss how to characterize JD's divergent private and public posturing on the war.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jonathan Swan&lt;/strong&gt; joins Tim Miller.&lt;br /&gt;&lt;em&gt;show notes:&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.simonandschuster.com/books/Regime-Change/Maggie-Haberman/9781668067246"&gt;Jonathan’s “Regime Change: Inside the Imperial Presidency of Donald Trump”&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hsc.donorsupport.co/page/Bulwark"&gt;The Bulwark’s campaign to help the Haitian community of Springfield&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Closing Song - &lt;a href="https://www.youtube.com/watch?v=0rFVVzavii0"&gt;MJ Lenderman - She's Leaving You&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;Get 15% off OneSkin with the code BULWARK at &lt;a href="https://www.oneskin.co/BULWARK"&gt;https://www.oneskin.co/BULWARK&lt;/a&gt;&lt;br /&gt;#oneskinpod&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div&gt;
-&lt;a href="https://www.daytonmasoniccenter.org/events/live-recording-of-the-bulwark-to-benefit-the-springfield-community"&gt;&lt;strong&gt;Bulwark LIVE: Benefit for Springfield&lt;br /&gt;Some moments require you to step up. Some require you to show up. That’s why The Bulwark is coming to Ohio. &lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.daytonmasoniccenter.org/events/live-recording-of-the-bulwark-to-benefit-the-springfield-community"&gt;&lt;strong&gt;Join Tim, Sarah, JVL, Sam and friends Friday, September 25 at the Dayton Masonic Center for an evening of politics and fellowship.&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/div&gt;
-
-[Journalism Quality Filter — Quality: 9/10 — Original investigative reporting with new information on national security and self-dealing, holding power accountable.]</description><category>Journalism Quality</category><enclosure url="https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8953110.mp3?modified=1789500109&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Tue, 15 Sep 2026 20:02:57 +0000</pubDate><itunes:duration>3459</itunes:duration></item></channel></rss>
+[Journalism Quality Filter — Quality: 9/10 — In-depth interviews with Jack Smith and Brian Driscoll on weaponization of justice, significant primary-source accountability journalism.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD7467896357.mp3" length="0" type="audio/mpeg"/><pubDate>Wed, 08 Jul 2026 07:30:00 +0000</pubDate><itunes:duration>6261</itunes:duration></item></channel></rss>
