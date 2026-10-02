@@ -1,102 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 25 Sep 2026 14:56:14 +0000</lastBuildDate><item><title>Jonathan Swan: We Only Know 5%</title><link>https://audioboom.com/posts/8953110</link><description>&lt;div&gt;
-&lt;p&gt;The co-author of the signature book inside Trump 2.0 says the media only knows 5% of what is happening inside the administration—particularly when it comes to national security, the money-making, and the self-dealing. Jonathan does have new reporting about how the administration keeps pretending that our military is not running low on long-range missiles. In reality, the war is costing us a month's worth of Patriots almost every day. Plus: Stephen Miller has become the White House's resident kingmaker, why Trump is turbocharged on AI, and some contentious moments when Tim and Jonathan discuss how to characterize JD's divergent private and public posturing on the war.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jonathan Swan&lt;/strong&gt; joins Tim Miller.&lt;br /&gt;&lt;em&gt;show notes:&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.simonandschuster.com/books/Regime-Change/Maggie-Haberman/9781668067246"&gt;Jonathan’s “Regime Change: Inside the Imperial Presidency of Donald Trump”&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hsc.donorsupport.co/page/Bulwark"&gt;The Bulwark’s campaign to help the Haitian community of Springfield&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Closing Song - &lt;a href="https://www.youtube.com/watch?v=0rFVVzavii0"&gt;MJ Lenderman - She's Leaving You&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;Get 15% off OneSkin with the code BULWARK at &lt;a href="https://www.oneskin.co/BULWARK"&gt;https://www.oneskin.co/BULWARK&lt;/a&gt;&lt;br /&gt;#oneskinpod&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div&gt;
-&lt;a href="https://www.daytonmasoniccenter.org/events/live-recording-of-the-bulwark-to-benefit-the-springfield-community"&gt;&lt;strong&gt;Bulwark LIVE: Benefit for Springfield&lt;br /&gt;Some moments require you to step up. Some require you to show up. That’s why The Bulwark is coming to Ohio. &lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.daytonmasoniccenter.org/events/live-recording-of-the-bulwark-to-benefit-the-springfield-community"&gt;&lt;strong&gt;Join Tim, Sarah, JVL, Sam and friends Friday, September 25 at the Dayton Masonic Center for an evening of politics and fellowship.&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/div&gt;
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 02 Oct 2026 16:03:37 +0000</lastBuildDate><item><title>What Does Abdul El-Sayed Believe?</title><link>https://www.nytimes.com/2026/09/25/opinion/ezra-klein-podcast-abdul-el-sayed.html</link><description>Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, has been one of the most argued-over candidates this election cycle. 
 
-[Journalism Quality Filter — Quality: 9/10 — Original investigative reporting with new information on national security and self-dealing, holding power accountable.]</description><category>Journalism Quality</category><enclosure url="https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8953110.mp3?modified=1789500109&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Tue, 15 Sep 2026 20:02:57 +0000</pubDate><itunes:duration>3459</itunes:duration></item><item><title>The ‘But China!’ Dilemma Driving the A.I. Race</title><link>https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html</link><description>America is waking up to the critical risks posed by artificial intelligence. But every conversation about possible regulation tends to hit the same wall: “Well, what about China?”
+If he wins, he’d be the first-ever Muslim senator, and he’s faced a torrent of attacks about his faith. The race has also become a proving ground for a lot of questions about the Democratic Party and its future: What should U.S. policy toward Israel and the Palestinians be? Is the future of health care reform Medicare for all? Can a left-wing populist win in a state that twice voted for Donald Trump?
 
-Chinese A.I. models are just slightly behind American ones. If America slows down its A.I. development to make our models safer, the fear is that China will simply race ahead of us and own this critical technology of the future — with A.I. models that are less safe than our own. 
+There’s been so much more heat than light in this race, so I wanted to invite El-Sayed on the show for a longer conversation. We talked about his upbringing, his views on U.S. foreign policy, his work on health care reform and what he would actually do if elected in November.
 
-So how should the United States respond to this prisoner’s dilemma? And is it possible that the two countries leading the A.I. race could actually strike a deal? 
-
-Matt Sheehan is a senior fellow at the Carnegie Endowment for International Peace. He’s been closely following the A.I. debate in China, and how China’s been interpreting the A.I. debate here. And he’s working to try to lay a foundation for future coordination between the two countries. He’s the author of a newsletter under his name and the 2019 book “The Transpacific Experiment: How China and California Collaborate and Compete for Our Future.”
-
-This conversation was recorded on Sept. 10.
-
-[Journalism Quality Filter — Quality: 8/10 — In-depth explanatory journalism on a complex AI policy dilemma, featuring expert analysis and clear presentation.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f3e11617-fc5d-4268-9dcc-fb47bec1433d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=f3e11617-fc5d-4268-9dcc-fb47bec1433d&amp;feed=82FI35Px" length="62994983" type="audio/mpeg"/><pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>01:05:37</itunes:duration></item><item><title>How Trump Made $2.2 Billion Since Taking Office</title><description>Morning Dispatch Reporter Surya Gowda joins Steve Hayes, Jonah Goldberg, and Kevin Williamson to explain how Donald Trump made $2.2 billion in 2025 and discuss whether or not his financial gains are ill-gotten.
-
-Then, Kevin and Jonah discuss Graham Platner dropping out of the Maine Senate race and the end of the ceasefire with Iran.
+[Journalism Quality Filter — Quality: 8/10 — In-depth candidate interview and profile that explores key policy and identity issues, adding public understanding.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/9a521442-24d0-4652-877a-8f2464174d9a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=9a521442-24d0-4652-877a-8f2464174d9a&amp;feed=82FI35Px" length="90135564" type="audio/mpeg"/><pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>01:33:53</itunes:duration></item><item><title>Sen. Schmitt’s Failed Attack on Jack Smith</title><description>Mike Warren is joined by Jonah Goldberg and Kevin Williamson to discuss Missouri Sen. Eric Schmitt’s failed attempt at setting a perjury trap and the Trump administration’s AI luncheon.
 
 The Agenda:
 
-—Trump’s presidential payday
+—Schmitt vs. Smith
 
-—Binance founder pardon
+—What happened to Capitol Hill staff?
 
-—Public perception of corruption
+—The GOP’s victory lap
 
-—Allegations against Graham Platner
+—The superintelligence rebrand
 
-—Platner's working class cosplay
+—Trump’s AI luncheon
 
-—Is the Iran war back on?
+—“Unites States”
 
-—How Iran keeps winning—NWYT: A Kevin Williamson solo Remnant?
-
-Show notes:
-
-—Trump: "I found out that nobody cared."
-
-—False allegations against a University of Virginia official
+—NWYT: Hosting dinner parties
 
 The Dispatch Podcast is a production of ⁠The Dispatch⁠, a digital media company covering politics, policy, and culture from a nonpartisan perspective. To access all of The Dispatch’s offerings—including audio versions of all our articles and newsletters—⁠click here⁠. If you’d like to remove all ads from your podcast experience, consider becoming a premium Dispatch member ⁠by clicking here⁠.
 
 
 Learn more about your ad choices. Visit megaphone.fm/adchoices
 
-[Journalism Quality Filter — Quality: 8/10 — Includes original reporting on Trump's financial gains, providing accountability journalism.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI4053543801.mp3" length="0" type="audio/mpeg"/><pubDate>Fri, 10 Jul 2026 07:00:00 +0000</pubDate><itunes:duration>4571</itunes:duration></item><item><title>What Does Abdul El-Sayed Believe?</title><link>https://www.nytimes.com/2026/09/25/opinion/ezra-klein-podcast-abdul-el-sayed.html</link><description>Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, has been one of the most argued-over candidates this election cycle. 
+[Journalism Quality Filter — Quality: 6/10 — Discusses timely political and legal developments with knowledgeable guests, but remains a panel commentary format with limited original reporting.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI3649425844.mp3" length="0" type="audio/mpeg"/><pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate><itunes:duration>3714</itunes:duration></item><item><title>Bill Gates’s Blunt Warning on A.I.</title><link>https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html</link><description>Bill Gates thinks A.I. alarmism hasn’t gone far enough. He believes the years ahead will be marred by catastrophic cyberattacks, bio-terrorism and mass job loss  unless the government acts, because he thinks the idea that the A.I. industry can just self-regulate is “insane.” 
 
-If he wins, he’d be the first-ever Muslim senator, and he’s faced a torrent of attacks about his faith. The race has also become a proving ground for a lot of questions about the Democratic Party and its future: What should U.S. policy toward Israel and the Palestinians be? Is the future of health care reform Medicare for all? Can a left-wing populist win in a state that twice voted for Donald Trump?
+I was struck in the conversation by how genuinely afraid Gates seemed to be that we are not ready for the consequences of what we are building, and how emphatic he was that so many of the people in positions of authority are in complete denial about what he thinks is about to happen.
 
-There’s been so much more heat than light in this race, so I wanted to invite El-Sayed on the show for a longer conversation. We talked about his upbringing, his views on U.S. foreign policy, his work on health care reform and what he would actually do if elected in November.
+Gates is a pioneering technologist, the co-founder of Microsoft and the chair of Gates Foundation, which is set to spend down around $200 billion over the next two decades. He recently announced that trying to make A.I. a force for equality in the world, as opposed to an impetus for inequality, is a new priority of his foundation’s work.
 
-[Journalism Quality Filter — Quality: 8/10 — In-depth candidate interview and profile that explores key policy and identity issues, adding public understanding.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/9a521442-24d0-4652-877a-8f2464174d9a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=9a521442-24d0-4652-877a-8f2464174d9a&amp;feed=82FI35Px" length="90135564" type="audio/mpeg"/><pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>01:33:53</itunes:duration></item><item><title>Jack Smith and Brian Driscoll on the Weaponization of Justice</title><description>As the Trump administration continues to weaponize the Justice Department and FBI, Jon is joined by former Special Counsel Jack Smith and former Acting FBI Director Brian Driscoll to examine what happens when these institutions are turned against the principles they were designed to uphold. Together, they explore whether the DOJ and FBI are capable of holding power accountable, investigate how the assault on the rule of law has been used to punish and intimidate public servants, and consider what it would take to repair these institutions.
+[Journalism Quality Filter — Quality: 8/10 — Presents a significant, clear interview with Bill Gates as a primary source on AI risks and governance, adding expert insight.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/315b9d5d-a796-4940-ac66-f285a522b4b7/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=315b9d5d-a796-4940-ac66-f285a522b4b7&amp;feed=82FI35Px" length="71257598" type="audio/mpeg"/><pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>01:14:13</itunes:duration></item><item><title>Amanda Carpenter and Evan Gershkovich: Trump's and Putin's Authoritarian Projects</title><link>https://audioboom.com/posts/8958522</link><description>&lt;div&gt;
+&lt;p&gt;Vigilance is still in order, but Trump’s efforts to rig the midterms have so far flopped. And that includes Trump’s self-sabotaging of his own plan to blame China for hacking our voting machines. But should the Dems win back Congress, they’re going to be busy tracing all the money that was stolen for the ballroom, the arch, and Pentagon contracts with Trump family members. Plus: Evan discusses his new book, which memorializes both his 16 months in Russian captivity—and the recent history of Russia at war under Putin.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amanda Carpenter&lt;/strong&gt; and &lt;strong&gt;Evan Gershkovich&lt;/strong&gt; join Tim Miller.&lt;/p&gt;&lt;p&gt;&lt;em&gt;show notes:&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.penguinrandomhouse.com/books/795680/this-cursed-beautiful-land-by-evan-gershkovich/"&gt;Evan’s book, “This Cursed Beautiful Land”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ifyoucankeepit.org/"&gt;Protect Democracy’s Substack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.thebulwark.com/p/impeach-him-again-trump-tv-ads-public-money-abuses-power-midterms-democrats?r=af2rj&amp;amp;utm_campaign=post&amp;amp;utm_medium=web"&gt;Andrew in “Morning Shots” on impeaching Trump again&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.thebulwark.com/p/impeach-him-again-trump-tv-ads-public-money-abuses-power-midterms-democrats?r=af2rj&amp;amp;utm_campaign=post&amp;amp;utm_medium=web"&gt;Sam and Will on Texas’s Bo French&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hsc.donorsupport.co/page/Bulwark"&gt;The Bulwark’s campaign to help the Haitian community of Springfield&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://store.thebulwark.com/"&gt;The Bulwark store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-This episode is brought to you by:
-
-GROUND NEWS - Go to https://groundnews.com/stewart to see all sides of every story. Subscribe for 40% off the Vantage Subscription only for a limited time through our link https://groundnews.com/stewart
-
-FACTOR - https://FactorMeals.com/TWS50OFF
-
-MINT MOBILE - Shop plans at https://MintMobile.com/TWS
-
-Follow The Weekly Show with Jon Stewart on social media for more:&amp;nbsp;
-
-&gt; YouTube: https://www.youtube.com/@weeklyshowpodcast 
-
-&gt; Instagram: https://www.instagram.com/weeklyshowpodcast
-
-&gt; TikTok: https://tiktok.com/@weeklyshowpodcast&amp;nbsp;
-
-&gt; X: https://x.com/weeklyshowpod&amp;nbsp;&amp;nbsp;
-
-&gt; BlueSky: https://bsky.app/profile/theweeklyshowpodcast.com
-
-Host/Executive Producer – Jon Stewart
-
-Executive Producer – James Dixon
-
-Executive Producer – Chris McShane
-
-Executive Producer – Caity Gray
-
-Producer – Brittany Mehmedovic&amp;nbsp;
-
-Producer – Gillian Spear
-
-Video Editor &amp; Engineer – Rob Vitolo
-
-Audio Editor &amp; Engineer – Nicole Boyce
-
-Music by Hansdle Hsu
-
-
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
-
-[Journalism Quality Filter — Quality: 9/10 — In-depth interviews with Jack Smith and Brian Driscoll on weaponization of justice, significant primary-source accountability journalism.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD7467896357.mp3" length="0" type="audio/mpeg"/><pubDate>Wed, 08 Jul 2026 07:30:00 +0000</pubDate><itunes:duration>6261</itunes:duration></item></channel></rss>
+[Journalism Quality Filter — Quality: 8/10 — Features a substantive interview with Evan Gershkovich and focuses on authoritarian abuses and accountability with primary-source perspective.]</description><category>Journalism Quality</category><enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8958522.mp3?modified=1790711443&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Tue, 29 Sep 2026 19:48:44 +0000</pubDate><itunes:duration>4110</itunes:duration></item></channel></rss>
