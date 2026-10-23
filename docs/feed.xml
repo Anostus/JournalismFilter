@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 16 Oct 2026 14:28:30 +0000</lastBuildDate><item><title>‘This Is Nuts.’ An OpenAI Insider Explains Why He Quit.</title><link>https://www.nytimes.com/2026/10/06/opinion/ezra-klein-podcast-david-robinson.html</link><description>Last week, David Robinson resigned from OpenAI. He’d been in charge of writing the safety reports for new models and came to believe that OpenAI and the broader artificial intelligence industry lack the safety culture necessary to protect the world from what they’re building.
-
-Robinson has an unusual background for an A.I. frontier lab staffer. He’s a Rhodes scholar and Yale Law graduate, he founded a civil rights nonprofit and he advised the Biden White House. He did not come up in the hothouse of Silicon Valley. And when he joined OpenAI in 2023, he says, he saw A.I. as a useful tool, not as a technology that could pose catastrophic risks.
-
-That’s changed. In Robinson’s first interview since leaving OpenAI, he tells me why.
-
-(The New York Times has sued OpenAI and Microsoft claiming copyright infringement. The companies have denied those claims.)
-
-[Journalism Quality Filter — Quality: 8/10 — A primary-source interview with a former OpenAI insider delivers original, first-hand accountability testimony on AI safety culture.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/02a41b6b-aea0-419e-aa9d-01db8ecaef84/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=02a41b6b-aea0-419e-aa9d-01db8ecaef84&amp;feed=82FI35Px" length="68546719" type="audio/mpeg"/><pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate><itunes:duration>01:11:24</itunes:duration></item><item><title>DHS Called It False. Then It Was Confirmed.</title><description>Daily Wire immigration reporter and Dao Prize nominee Jennie Taer joins Tim Rice to go behind her explosive exclusive: ICE officers across the country say they were verbally ordered to stop arresting illegal immigrants without criminal records. The order closely echoed Biden-era policy, the opposite of the mass deportation agenda many Trump voters were expecting. Within hours, DHS called the report false. Then Fox News and CBS helped confirm it, new verbal orders reversed course, and Vice President JD Vance acknowledged a communication breakdown. Jennie explains why frustrated officers came to her, who might have been behind the order, why something this big was never put in writing, and what it's like to break a story the federal government says isn't true. 
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
-
-[Journalism Quality Filter — Quality: 8/10 — A well-sourced investigative exclusive with primary sources, independent confirmation, and accountability impact, though from a partisan outlet.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/3Q5mz/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV4507160146.mp3" length="0" type="audio/mpeg"/><pubDate>Sat, 03 Oct 2026 16:00:00 +0000</pubDate><itunes:duration>1373</itunes:duration></item><item><title>Derek Thompson and Adam Carlson: The Republicans' Strength Is Now Their Weakness</title><link>https://audioboom.com/posts/8962731</link><description>&lt;div&gt;
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Journalism Quality Filter — Weekly Top 3</title><link>https://github.com/your-username/journalism-filter</link><description>The top three podcast episodes of the week (best from each feed), selected by AI for journalism and news quality. Updated weekly on Fridays.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 23 Oct 2026 14:35:38 +0000</lastBuildDate><item><title>Derek Thompson and Adam Carlson: The Republicans' Strength Is Now Their Weakness</title><link>https://audioboom.com/posts/8962731</link><description>&lt;div&gt;
 &lt;p&gt;While the cult of Trump is dragging Republicans' popularity down, the Democrats have good, ideologically diverse candidates running all over the place. And voters aren't stupid: They know Trump's war and his tariffs are why prices are higher. But high-profile polling misses in recent years still haunt Dems, so Adam takes a deep dive into whether Republicans are doing better than the polls are showing. Plus: Derek explains how AI is making our lives more expensive and ponders why people behind AI think it's the most dangerous thing in the world yet still keep trying to build it as fast as possible. And no, AI does not have feelings. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Derek Thompson &lt;/strong&gt;and &lt;strong&gt;Adam Carlson&lt;/strong&gt; join Tim Miller for the weekend pod.&lt;/p&gt;&lt;p&gt;&lt;em&gt;show notes:&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://open.substack.com/pub/derekthompson/p/the-state-of-ai-in-2026in-26-charts?r=af2rj&amp;amp;utm_campaign=post&amp;amp;utm_medium=web"&gt;Derek's "The 26 Most Important Facts About AI and the Economy"&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.thebulwark.com/p/we-spoke-to-the-guy-who-snitched?r=af2rj&amp;amp;utm_campaign=post&amp;amp;utm_medium=web"&gt;Sam's interview with the guy who snitched on Guilfoyle&lt;/a&gt;&lt;/li&gt;
@@ -28,27 +17,27 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices
 &lt;li&gt;&lt;a href="https://store.thebulwark.com/"&gt;The Bulwark store&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;
 
-[Journalism Quality Filter — Quality: 6/10 — Includes a genuine data-driven deep dive into polling accuracy and economic analysis of AI's costs, adding analytical value beyond punditry.]</description><category>Journalism Quality</category><enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962731.mp3?modified=1791577754&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Fri, 09 Oct 2026 19:47:12 +0000</pubDate><itunes:duration>5124</itunes:duration></item><item><title>America, China, and the Tech Cold War with Chris Miller</title><description>Following Trump's return from his summit in China, Jon is joined by Chris Miller, author of "Chip War: The Fight for the World's Most Critical Technology." Together, they explore the supply chain for semiconductors that runs through Taiwan, discuss how the trade war between the US and China is reshaping technology development and production, and consider what this competition reveals about the emerging world order. Plus, Jon has to choose between Nixon and Trump!
+[Journalism Quality Filter — Quality: 6/10 — Includes a genuine data-driven deep dive into polling accuracy and economic analysis of AI's costs, adding analytical value beyond punditry.]</description><category>Journalism Quality</category><enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962731.mp3?modified=1791577754&amp;sid=5114286&amp;source=rss" length="0" type="audio/mpeg"/><pubDate>Fri, 09 Oct 2026 19:47:12 +0000</pubDate><itunes:duration>5124</itunes:duration></item><item><title>A Progressive Policy Prescription with Abdul El-Sayed</title><description>As candidates make their closing arguments to voters ahead of Election Day, Jon is joined by Michigan Democratic Senate candidate Dr. Abdul El-Sayed to talk about the state of his race in the final stretch. Together, they discuss how his family’s immigrant background shaped his politics, the case he's making to skeptical voters, and the disconnect between the issues dominating media coverage and the concerns Michiganders are raising on the ground. Plus, Jon answers listeners’ questions about AI-generated music, fake polls, and fake news!
 
-This episode is brought to you by:
+This episode is sponsored by:
 
-GROUND NEWS - Go to https://groundnews.com/stewart to see all sides of every story. Subscribe for 40% off the Vantage Subscription only for a limited time through our link https://groundnews.com/stewart
+GROUND NEWS - Go to https://ground.news/js to see all sides of every story. Subscribe for 40% off the Vantage Subscription only for a limited time through https://ground.news/js.
 
-AVOCADO - Go to https://AvocadoGreenMattress.com/TWS and check out their mattress and bedding sale!
+TREES.COM - Get 20% off at https://trees.com with code TWS.
 
-SURFSHARK - Go to https://surfshark.com/jonstewart and use code jonstewart at checkout to get 4 extra months of Surfshark VPN!
+BOMBAS - Head to https://bombas.com/weekly for 20% off your 1st purchase.
 
-UPWORK - Visit https://upwork.com/tws right now and post your job for free.
+MINT MOBILE - Shop plans at https://MintMobile.com/TWS.
 
-Follow The Weekly Show with Jon Stewart on social media for more: 
+Follow The Weekly Show with Jon Stewart on social media for more:&amp;nbsp;
 
 &gt; YouTube: https://www.youtube.com/@weeklyshowpodcast 
 
 &gt; Instagram: https://www.instagram.com/weeklyshowpodcast
 
-&gt; TikTok: https://tiktok.com/@weeklyshowpodcast 
+&gt; TikTok: https://tiktok.com/@weeklyshowpodcast&amp;nbsp;
 
-&gt; X: https://x.com/weeklyshowpod  
+&gt; X: https://x.com/weeklyshowpod&amp;nbsp;&amp;nbsp;
 
 &gt; BlueSky: https://bsky.app/profile/theweeklyshowpodcast.com
 
@@ -60,9 +49,7 @@ Executive Producer – Chris McShane
 
 Executive Producer – Caity Gray
 
-Lead Producer – Lauren Walker
-
-Producer – Brittany Mehmedovic 
+Producer – Brittany Mehmedovic&amp;nbsp;
 
 Producer – Gillian Spear
 
@@ -70,39 +57,18 @@ Video Editor &amp; Engineer – Rob Vitolo
 
 Audio Editor &amp; Engineer – Nicole Boyce
 
+Associate Producer - Rebecca Rottenberg
+
 Music by Hansdle Hsu
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
 
-[Journalism Quality Filter — Quality: 8/10 — In-depth expert interview on semiconductor supply chains and US-China tech competition, offering substantive analysis from a leading author.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD9682547560.mp3" length="0" type="audio/mpeg"/><pubDate>Wed, 20 May 2026 07:30:00 +0000</pubDate><itunes:duration>5467</itunes:duration></item><item><title>The A.I. Revolt Is Here</title><link>https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html</link><description>What’s big and ugly and has united Republicans and Democrats? A.I. data centers.
+[Journalism Quality Filter — Quality: 6/10 — A substantive interview with a Senate candidate that gives voters direct access to his arguments and background, though it is largely candidate-driven rather than investigative.]</description><category>Journalism Quality</category><enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD2142373924.mp3" length="0" type="audio/mpeg"/><pubDate>Wed, 21 Oct 2026 07:30:00 +0000</pubDate><itunes:duration>5531</itunes:duration></item><item><title>Will the Midterm Elections Be Secure?</title><description>How confident can we be that the 2026 midterms will run smoothly? When will we know which party has secured House and Senate majorities? Should we expect any meddling, foreign or domestic?Steve Hayes was joined by election experts Stephen Richer and Mark Sawyer for answers to those questions and many others. Then a panel including Jonah Goldberg and Mike Warren dove deep on the races most likely to decide congressional majorities and take a look at how candidates in competitive races are making their closing arguments.Watch the livestream here:https://www.youtube.com/live/oi4D0oVR6gQ?si=jigZpbvgh9hky57V
+Learn more about your ad choices. Visit megaphone.fm/adchoices
 
-An overwhelming majority of Americans say they’d oppose a data center being built near where they live. In New York, Gov. Kathy Hochul just imposed a one-year moratorium on data center construction, and there are over 100 other local or statewide moratorium proposals across the country. A.I.’s explosive momentum over the last few years seems to have finally run into a force that could slow it down: the messy politics of getting things done in the real world.
+[Journalism Quality Filter — Quality: 7/10 — Features election experts and a substantive discussion of election security and competitive races, providing useful analysis and sourcing on a significant topic.]</description><category>Journalism Quality</category><enclosure url="https://s.gum.fm/s-67d9829bf3ae489b7467850e/pscrb.fm/rss/p/traffic.megaphone.fm/DISPMI8469390314.mp3" length="0" type="audio/mpeg"/><pubDate>Tue, 20 Oct 2026 01:13:00 +0000</pubDate><itunes:duration>5051</itunes:duration></item><item><title>Why Trump’s 2024 Voters Are Turning on Him</title><link>https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html</link><description>Sarah Longwell has probably conducted more focus groups with Trump voters than anyone else in America — hundreds of them, starting in Trump’s first term. So she has a treasure trove of qualitative evidence of how voters have evolved in the Trump era and why many of the president’s voters are souring on him now.
 
-So, is that a good thing, or a bad thing? And how much is the data center backlash about the actual construction of these buildings, and how much is it about A.I. itself?
+Trump’s approval rating has plummeted since the start of his second term, especially among the groups that swung toward him in the last election — young, Black and Hispanic voters. But I wanted to have Longwell on the show to hear what these people are really saying. What exactly has disappointed them about Trump’s second term? And what opportunities could that open for Democrats?
 
-Jasmine Sun has an excellent newsletter covering both the culture inside the A.I. companies and the anger that’s been building against them. And she just finished a reporting trip in the Midwest, where she interviewed people on all sides of the data center fight. So I wanted to talk to her about what she saw and what she thinks A.I. companies can learn from the growing movement against them.
+Longwell is a founder and the publisher of The Bulwark, the host of “The Focus Group Podcast” and the author of “How to Eat an Elephant: One Voter at a Time.”
 
-Mentioned:
-
-@jasmine’s Substack
-
-Silicon Valley Is Bracing for a Permanent Underclass by Jasmine Sun
-
-Sam Bankman-Fried on Arbitrage and Altruism (Ep. 145)
-
-Is Your Social Life Missing Something? This Conversation Is for You. With Priya Parker, The Ezra Klein Show
-
-Book Recommendations:
-
-The Maniac by Benjamin Labatut
-
-The Technology Trap by Carl Benedikt Frey
-
-The Art of Gathering by Priya Parker
-
-Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.
-
-You can find transcripts (posted midday) and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast, and you can find Ezra on Twitter @ezraklein. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.
-
-This episode of “The Ezra Klein Show” was produced by Rollin Hu. Fact-checking by Kelsey Lannin. Our senior engineer is Jeff Geld, with additional mixing by Johnny Simon. Our recording engineer is Johnny Simon. Cinematography by Kyle Kelley. Video editing by Brandon Belk-Yee, Steph Khoury and Arpita Aneja. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Jack McCordick, Kristin Lin and Emma Kehlbeck. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser.
-
-[Journalism Quality Filter — Quality: 8/10 — Substantive analysis of the AI data center backlash, using polling, state moratoriums, and political dynamics to explain a significant emerging conflict.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/6954b333-02c8-4439-af49-d932efe1d080/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=6954b333-02c8-4439-af49-d932efe1d080&amp;feed=82FI35Px" length="75131663" type="audio/mpeg"/><pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate><itunes:duration>01:18:15</itunes:duration></item></channel></rss>
+[Journalism Quality Filter — Quality: 8/10 — Draws on extensive original focus-group evidence and expert interview to explain voter shifts with depth and clarity.]</description><category>Journalism Quality</category><enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/eb463534-5fae-4bbd-b815-dd25c3d38f80/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&amp;awEpisodeId=eb463534-5fae-4bbd-b815-dd25c3d38f80&amp;feed=82FI35Px" length="65624348" type="audio/mpeg"/><pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate><itunes:duration>01:08:21</itunes:duration></item></channel></rss>
